@@ -1,11 +1,10 @@
 # Tutorial Install Almalinux V9.3 melalui virtualbox
 
 ## Penjelasan AlmaLinux 
-![Alma](Alma.png)
 Sebelum memasuki penginstallan saya akan menjelaskan AlmaLinux terlebih dahulu.
 AlmaLinux merupakan sistem operasi open source berbasis Linux yang kompatibel dengan Red Hat Enterprise Linux (RHEL). AlmaLinux dikembangkan oleh perusahaan CloudLinux menggunakan kode sumber RHEL.
-AlmaLinux adalah proyek dari RedHat yang dikembangkan sebagai alternatif dari sistem operasi CentOS. Proyek AlmaLinux dimulai setelah RedHat mengumumkan bahwa mereka akan mengalihkan fokus dan waktu mereka dari CentOS Linux ke CentOS Stream. 
-
+AlmaLinux adalah proyek dari RedHat yang dikembangkan sebagai alternatif dari sistem operasi CentOS. Proyek AlmaLinux dimulai setelah RedHat mengumumkan bahwa mereka akan mengalihkan fokus dan waktu mereka dari CentOS Linux ke CentOS Stream.
+![Alma](Alma.png)
 
 ## Menjalankan instalasi Almalinux V9.3
 
