@@ -14,5 +14,23 @@
 #### 4. Pada tampilan `Virtual Hard disk` silahkan diatur sebebasnya, tapi disini saya atur sampai `40.00 GB` untuk meringankan memory, jika sudah lalu di `next`.
 ![4](4.jpg)
 
-#### 5. Jika sudah semua maka akan menampilkan `Summary` lalu tekan `Finish`.
+#### 5. Jika sudah semua maka akan menampilkan `Summary`, lalu tekan `Finish`.
 ![5](5.jpg)
+
+#### 6. Pada tampilan awal virtualbox kalian tekan `Start`, lalu akan menampilkan seperti pada gambar dibawah ini, pada `DVD` kalian pilih file ISO yang telah kalian download dan `Mount and Retry Boot`.
+![6](6.jpg)
+
+#### 7. Lalu pilih `Install AlmaLinux 9.3` dan tekan enter.
+![7](7.jpg)
+
+#### 8. Pilih tampilan bahasa untuk Almalinux kalian, lalu tekan `Lanjutkan`.
+![8](8.jpg)
+
+#### 9. Lalu kalian atur pada `Tujuan Instalasi, Kata Sandi Root, dan Pembuatan Pengguna`.
+![9](9.jpg)
+
+#### 10. Pada `Tujuan Instalasi` kalian pilih `ATA VBOX HARDDISK` seperti pada tampilan dibawah ini, lalu tekan `Selesai`.
+![10](10.jpg)
+
+#### 11. Pada `Sandi Root` kalian atur sandi kalian, lalu tekan `Selesai`.
+![11](11.jpg)
