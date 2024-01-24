@@ -6,7 +6,7 @@ AlmaLinux merupakan sistem operasi open source berbasis Linux yang kompatibel de
 AlmaLinux adalah proyek dari RedHat yang dikembangkan sebagai alternatif dari sistem operasi CentOS. Proyek AlmaLinux dimulai setelah RedHat mengumumkan bahwa mereka akan mengalihkan fokus dan waktu mereka dari CentOS Linux ke CentOS Stream.</p>
 
 <p align="center" style="margin-bottom: 0px !important;">
-![Alma](Alma.png)
+  <img width="200" src="Alma.png" alt="Alma" align="center">
 </p>
 
 ## Menjalankan instalasi Almalinux V9.3
