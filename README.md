@@ -2,10 +2,10 @@
 
 ## Menjalankan instalasi Almalinux V9.3
 
-#### 1. Pada virtualbox kalian pilih `new`, lalu muncul `Create Virtual Machine` silahkan diisi sesuai pada gambar dibawah ini, jangan lupa pada `ISO Image` di pilih file AlmaLinux yang telah kalian download, lalu `next`.
+#### Pada virtualbox kalian pilih `new`, lalu muncul `Create Virtual Machine` silahkan diisi sesuai pada gambar dibawah ini, jangan lupa pada `ISO Image` di pilih file AlmaLinux yang telah kalian download, lalu `next`.
 ![1](1.jpg)
 
-#### 2. Jika sudah di `next`, perhatikan pada `Username` dan `Hostname` jika sudah tercentang maka sudah bisa di `next`.
+#### Jika sudah di `next`, perhatikan pada `Username` dan `Hostname` jika sudah tercentang maka sudah bisa di `next`.
 ![2](2.jpg)
 
 #### 3. Pada tampilan `Hardware` di bagian `Base Memory` kalian atur sampai `4096 MB`, lalu di `next`.
@@ -34,3 +34,18 @@
 
 #### 11. Pada `Sandi Root` kalian atur sandi kalian, lalu tekan `Selesai`.
 ![11](11.jpg)
+
+#### 12. Pada `Pembuatan Pengguna` kalian isi sesuai nama dan sandi kalian, lalu tekan `Selesai`.
+![12](12.jpg)
+
+#### 13. Jika semua persyaratan sudah diisi semua, maka tampilannya akan sama seperti gambar dibawah ini, lalu tekan `Mulai Instalasi`. Jika belum berhasil atau masih ada yang gagal maka bisa diatur lagi dibagian yang bermasalah sampai berhasil.
+![13](13.jpg)
+
+#### 14. Lalu tunggu penginstallan sampai keluar tombol `Boot Ulang Sistem`.
+![15](15.jpg)
+
+#### 15. Jika berhasil maka keluar tampilan seperti gambar dibawah ini, tekan `profil dan masukkan sandi` yang telah dibuat tadi.
+![17](17.jpg)
+
+#### 16. Selamat anda telah berhasil menginstall AlmaLinux di virtualbox
+![18](18.jpg)
