@@ -1,11 +1,18 @@
 # Tutorial Install Almalinux V9.3 melalui virtualbox
 
+## Penjelasan AlmaLinux 
+![AlmaLinux](AlmaLinux.png)
+Sebelum memasuki penginstallan saya akan menjelaskan AlmaLinux terlebih dahulu.
+AlmaLinux merupakan sistem operasi open source berbasis Linux yang kompatibel dengan Red Hat Enterprise Linux (RHEL). AlmaLinux dikembangkan oleh perusahaan CloudLinux menggunakan kode sumber RHEL.
+AlmaLinux adalah proyek dari RedHat yang dikembangkan sebagai alternatif dari sistem operasi CentOS. Proyek AlmaLinux dimulai setelah RedHat mengumumkan bahwa mereka akan mengalihkan fokus dan waktu mereka dari CentOS Linux ke CentOS Stream. 
+
+
 ## Menjalankan instalasi Almalinux V9.3
 
-#### Pada virtualbox kalian pilih `new`, lalu muncul `Create Virtual Machine` silahkan diisi sesuai pada gambar dibawah ini, jangan lupa pada `ISO Image` di pilih file AlmaLinux yang telah kalian download, lalu `next`.
+#### 1. Pada virtualbox kalian pilih `new`, lalu muncul `Create Virtual Machine` silahkan diisi sesuai pada gambar dibawah ini, jangan lupa pada `ISO Image` di pilih file AlmaLinux yang telah kalian download, lalu `next`.
 ![1](1.jpg)
 
-#### Jika sudah di `next`, perhatikan pada `Username` dan `Hostname` jika sudah tercentang maka sudah bisa di `next`.
+#### 2. Jika sudah di `next`, perhatikan pada `Username` dan `Hostname` jika sudah tercentang maka sudah bisa di `next`.
 ![2](2.jpg)
 
 #### 3. Pada tampilan `Hardware` di bagian `Base Memory` kalian atur sampai `4096 MB`, lalu di `next`.
